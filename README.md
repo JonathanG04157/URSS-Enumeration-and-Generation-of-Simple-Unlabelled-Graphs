@@ -2,7 +2,7 @@
 
 **Author:** Jonathan Glanfield
 
-A concise, didactic implementation for enumerating and generating simple *unlabelled* graphs. The project demonstrates counting by symmetry (Pólya / Burnside), McKay-style canonical labelling for isomorphism testing and a recursive generator that extends graphs by orbit representatives under automorphism groups.
+A concise, didactic implementation for enumerating and generating simple *unlabelled* graphs. The project demonstrates counting by symmetry (Pólya / Burnside), McKay's canonical labelling for isomorphism testing and a recursive generator that extends graphs by orbit representatives under automorphism groups.
 
 ## Contents
 - `PET.py` - code for counting unlabelled graphs using cycle-index / Pólya Enumeration Theorem.  
